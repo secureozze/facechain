@@ -3,7 +3,7 @@ transformers
 diffusers
 onnxruntime
 modelscope
-Pillow==2.4.0
+Pillow
 opencv-python
 torchvision
 mmdet==2.26.0
