@@ -3,13 +3,13 @@ transformers
 diffusers
 onnxruntime
 modelscope
-Pillow
+Pillow==2.4.0
 opencv-python
 torchvision
 mmdet==2.26.0
 mmengine
 numpy==1.22.0
-protobuf == 4.21.6 
+protobuf==3.20.1
 timm
 scikit-image
 gradio
